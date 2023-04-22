@@ -1,0 +1,106 @@
+@font-face {
+    font-family:'efour';
+    src:url(fonts/efour/Efourpro-OPrP.ttf) format('truetype');
+}
+body,head{
+    background-color:#222222;
+}
+
+#nav{
+    background-color:#444444;
+    border:  #c83deb solid 4px;
+
+}
+
+#h{
+    background-color:#444444;
+    border: #02c2cc solid 8px;
+}
+
+#b{
+    
+    
+}
+
+
+.r{
+    float:right;
+    background-color: #c83deb;
+    border: #444444 solid 25px;
+}
+
+.l{
+    width:60%;
+    height:50%;
+    background-color: #444444;
+    
+}
+
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
+    font-size:60px;
+    font-weight:bolder;
+    letter-spacing:15px;
+
+}
+
+#latest{
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:35px;
+    font-weight:bold;
+    letter-spacing:2px;
+}
+
+h2{
+    color:white;
+    font-family:Helvetica, sans-serif;
+    font-weight:bold;
+}
+
+p{
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:lighter;
+}   
+
+hr{
+    border:white solid 3px;
+
+}
+
+.e{
+    display:inline-block;
+    padding-right:100px;
+    background-color: #444444;
+    height:15%;
+    width:15%;
+    
+}
+
+#words{
+    display:inline-block;
+    vertical-align:middle;
+}
+
+#g{
+    float:right;
+    display:inline-block;
+    vertical-align:middle;
+}
+
+#ga{
+    height:50%;
+    width:45%;
+
+}
+
+br{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+td{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
